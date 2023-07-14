@@ -1,0 +1,2 @@
+# firstrepo
+강의
